@@ -1,0 +1,28 @@
+{
+    "books":[
+        {
+            "id":"1",
+            "name":"Rich Dad poor Dad",
+            "author":"Robert Kiyosaki ",
+            "gener":"fantacy",
+            "price":"1299",
+            "publisher":"Robert Kiyosaki"
+        },
+         {
+            "id":"2",
+            "name":"Data Structure & Algrithms",
+            "author":"Narasimha Karumanchi ",
+            "gener":"Logics",
+            "price":"598",
+            "publisher":"Narasimha Karumanchi"
+        },
+        {
+          "id": "3",
+          "name": "The land before time",
+          "author": "J.R.R. Tolkien",
+          "gener": "Logics",
+          "price": "598",
+          "publisher": "Houghton Mifflin"
+        }
+    ]
+}
